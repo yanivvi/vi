@@ -32,6 +32,7 @@ Execute app.py using Spark-submit to perform the stock data analysis locally.
 `python app.py`
 ## Deploying with deploy.py:
 Run deploy.py to set up the AWS environment and deploy the analysis job to AWS Glue.
+
 `python deploy.py`
 
 ### This script will:
